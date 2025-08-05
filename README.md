@@ -5,7 +5,7 @@ This website allows you to explore the world of Pokémon by searching for any Po
 
 ## 🌐 Live Demo
 
-🔗 [Click here to view the deployed website](#pokedex-afzaldev.vercel.app)  
+🔗 [Click here to view the deployed website](#pokedex-afzaldev.vercel.app)
 <!-- Replace the '#' above with your actual deployment link -->
 
 ---
